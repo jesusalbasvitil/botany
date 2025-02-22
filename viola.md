@@ -16,7 +16,7 @@ Viola (AFPAI:509)
 ``brácteas oval lanceoladas de ápice muy agudo y fimbrías largas``, de maś de mitad de ancho de las brácteas ..Peciolos basales (Si los peciolos son ramificados y sépalos agudos **gr. rupestris**)
 
 - *..hojas con la anchura máxima en la mitad basal* [Sépalos de margen escarioso, no está claro en ejemplares de Gabardito pero sí que poseen ***estípulas linear-lanceoladas**, de ápice con frecuencia muy aguzado, con fimbrías de hasta 1.5(2) mm* (CFPV:185), que la diferencian de V. pyrenaica] **[Viola alba]()** (CPFV:185) `Gabardito 2019, marzo 3, 10:56 a. m.` y `Peña Oroel, Prado junto inicio camino 2019, abril 16, 15:00 p. m.` Común y de distribución regular, alternándose las dos formas.
-Alto de Arguilay, Bágena.
+Debajo de un rosal, subsp. dehnhardtii [AFPA1:509] Alto de Arguilay, Bágena.19/02/2025
 
 - Estípulas anchamente ovadas.. Hojas con limbo poco más largo que ancho **gr. pyrenaica** `Río Sieste 2019, marzo 16, 12:00 p. m.`
 
