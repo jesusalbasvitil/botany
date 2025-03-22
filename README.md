@@ -19,6 +19,6 @@
 
 # .. Y NOTAS SUELTAS
 
-## [Retama monsperma](http://herbarivirtual.uib.es/es/general/117/especie/retama-monosperma-l-boiss-)
-Flores blancas. Común, colonial en zona degradada, talud de paso a desnivel `18 de marzo de 2025, Longares` Podría ser introducida, al con constatarse la presencia de más ejemplares.
+## *[Retama monosperma](http://herbarivirtual.uib.es/es/general/117/especie/retama-monosperma-l-boiss-)*
+Flores blancas. Común, colonial en zona degradada de talud de paso a desnivel `18 de marzo de 2025, Longares` Podría ser introducida, al con constatarse la presencia de más ejemplares.
 
