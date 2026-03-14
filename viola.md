@@ -11,7 +11,7 @@ Viola (AFPAI:509)
 ## SGr. alba ## 
 `Sépalos de ápice obtuso`
 
-[incluida V. odorata, V. hirta y V. suavis, que se diferencian poseen hojas 1,5 más largas -V. hirta- o bien, son casi circulares -V. odorata- o más anchas que largas, caso de V. suavis pero todas, con brácteas oval lanceoladas de ápice corto sin casi fimbrías o éstas muy cortas] 
+[incluida V. odorata, V. hirta y V. suavis, que se diferencian en que poseen hojas 1,5 más largas -V. hirta- o bien, son casi circulares -V. odorata- o más anchas que largas, caso de V. suavis pero todas, con brácteas oval lanceoladas de ápice corto sin casi fimbrías o éstas muy cortas] 
 
 ``brácteas oval lanceoladas de ápice muy agudo y fimbrías largas``, de maś de mitad de ancho de las brácteas ..Peciolos basales (Si los peciolos son ramificados y sépalos agudos **gr. rupestris**)
 
