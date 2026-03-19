@@ -1,6 +1,12 @@
 # Backup de [Nuevos artículos (documentando)](https://es.wikipedia.org/wiki/Usuario:Jesus_Alba_Svitil/Taller/BACKUP#Nuevos_art%C3%ADculos_(documentando)) (versión 090413042025)
 
-==[[Taraxacum]] genus==
+==[[Fumaria Genus]]==
+
+
+
+==[[Fumaria]] [[genus]]==
+
+
 
 ''Taraxacum longisquameum. Section Taraxacum with pink petioles, interlobe blotches & purple bracts. All sorts of dryish places - this one between concrete slabs on the edge of  a carpark''https://twitter.com/BrambleBotanist/status/1510892072965922818
 
@@ -121,9 +127,7 @@ Es una herbácea de porte mediano (15-60 cms) que se diferencia de [[Ruta angust
 
 ==[[Equisetum ramosissimum]]==
 Es un [[equiseto]] o [[Cola de caballo]] que se diferencia de [[Equisetum arvense]] con el que pudiera haber confusión, por sus ramas extendidas -el primero las tiene en "V", semi-apicadas- y tallos fructíferos con dientes persistentes y triangulares y mucronados. --[[Usuario:Jesús Alba Svitil|Jesús Alba Svitil]] ([[Usuario Discusión:Jesús Alba Svitil|discusión]]) 10:24 17 ago 2024 (UTC) Zaragoza
-
-- [https://www.tela-botanica.org/bdtfx-nn-24561-synthese 4353 Equisetum campanulatum]
-- (AFPAI:7)
+[https://www.tela-botanica.org/bdtfx-nn-24561-synthese 4353 Equisetum campanulatum](AFPAI:7)
 
 ==[[Rosa sp.]]==
 ''7.. Folíolos con envés glanduloso, glándulas aparentes de color castaño..8
@@ -169,11 +173,11 @@ Cuencas y Montañas de la franja central: E(e); valles atlánticos y Valle del E
 - Pedicelos glandulosos R. andegavensis Bast. Cuencas y Valles atlánticos: R(E).
 
 D. Pedicelos sin glándulas</pre> [[Rosa squarrosa]]<pre> (Rau) Boreall [R. cariolii P. Cllab.] Casi todo el territorio, salvo el extremo meridianal: E(C).
+
 - Pedicelos glandulosos (29b) .... R. blondaeana Ripart ex Déséglise [R. nitidula sensu Klást. in Flora Europaea] Casi todo el territorio: R(E).
 OBS.- En alguna localidad de los Valles atlánticos liemos podido ver plantas con pedicelos ± glandulosos, intermedios entre ésta y la anterior, que se conocen también como R. oculta Crépin.
 
-E. Folíolos con la denticulación doble, regular o irregular; pedicelos sin glándulas R. obtusifolia Desv.
-Valles atlánticos y Cuencas: R.
+E. Folíolos con la denticulación doble, regular o irregular; pedicelos sin glándulas R. obtusifolia Desv. Valles atlánticos y Cuencas: R.
 -Foliolos con la denticulación sencilla, regular o irregular; pedicelos glandulosos o no F
 
 F. Pedicelos sin glándulas R. corymbifera Borkh. Cuencas y Montañas de la franja central del territorio: E; Valles atlánticos: R. 
