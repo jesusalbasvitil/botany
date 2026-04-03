@@ -8,12 +8,12 @@ Viola (AFPAI:509)
   `Pineta, 1 de abril de 2021` Aislada y colonial en hayedo mixto con boj. Calcícola
   - Apéndices <1,5 mm [Viola reichenbachiana]() `Barranco Used y Abellada, en zonas de semi umbría
 
-## SGr. alba ## 
+## SGr. alba
 `Sépalos de ápice obtuso`
 
 [incluida V. odorata, V. hirta y V. suavis, que se diferencian en que poseen hojas 1,5 más largas -V. hirta- o bien, son casi circulares -V. odorata- o más anchas que largas, caso de V. suavis pero todas, con brácteas oval lanceoladas de ápice corto sin casi fimbrías o éstas muy cortas] 
 
-``brácteas oval lanceoladas de ápice muy agudo y fimbrías largas``, de maś de mitad de ancho de las brácteas ..Peciolos basales (Si los peciolos son ramificados y sépalos agudos **gr. rupestris**)
+`brácteas oval lanceoladas de ápice muy agudo y fimbrías largas`, de maś de mitad de ancho de las brácteas ..Peciolos basales (Si los peciolos son ramificados y sépalos agudos **gr. rupestris**)
 
 - *..hojas con la anchura máxima en la mitad basal* [Sépalos de margen escarioso, no está claro en ejemplares de Gabardito pero sí que poseen ***estípulas linear-lanceoladas**, de ápice con frecuencia muy aguzado, con fimbrías de hasta 1.5(2) mm* (CFPV:185), que la diferencian de V. pyrenaica] **[Viola alba]()** (CPFV:185) 
 
